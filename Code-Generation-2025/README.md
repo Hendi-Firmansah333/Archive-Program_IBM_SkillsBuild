@@ -42,7 +42,7 @@ Archive-Program-IBM_SkillsBuild_2025/
 This certificate documents my learning achievement in using IBM Granite for code generation and optimization.
 
 **Credential Verification:**  
-[Verify on Credly](https://www.credly.com/badges/c67a2d36-566e-4e26-9806-ffffc4736234)
+[Verify on Credly](https://www.credly.com/badges/c67a2d36-566e-4e26-9806-ffffc4736234/public_url)
 
 ### 02. Completion Certificate — SkillsBuild 1
 
