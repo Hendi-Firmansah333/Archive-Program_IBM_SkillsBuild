@@ -22,7 +22,7 @@ This archive is part of my personal learning portfolio as an Information Technol
 | Recipient | Hendi Firmansah |
 | Issue Date | September 29, 2026 |
 | Learning Area | Artificial Intelligence |
-| Credential Verification | [Verify on Credly](https://www.credly.com/go/NDhoKpqT) |
+| Credential Verification | [Verify on Credly](https://www.credly.com/badges/74ca3a82-7c90-4a43-9a7d-9e4b6d799bba/public_url) |
 
 This certificate documents my completion of the IBM SkillsBuild learning activity titled **Build an AI Agent**.
 
@@ -70,7 +70,7 @@ Interested in frontend development, full-stack engineering, artificial intellige
 
 Verify the Build an AI Agent credential through the official Credly link:
 
-[View IBM SkillsBuild Credential](https://www.credly.com/go/NDhoKpqT)
+[View IBM SkillsBuild Credential](https://www.credly.com/badges/74ca3a82-7c90-4a43-9a7d-9e4b6d799bba/public_url)
 
 ## 📌 Notes
 
