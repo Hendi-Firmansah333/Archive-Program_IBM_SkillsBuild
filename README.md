@@ -2,7 +2,7 @@
 # 🚀 IBM SkillsBuild — Technology Learning & Achievement Archive
 
 <p align="center">
-  <strong>Explore Technology. Develop Skills. Build the Future.</strong>
+  <strong>Explore Technology · Develop Skills · Build the Future</strong>
 </p>
 
 <p align="center">
@@ -15,29 +15,24 @@
 
 Welcome to my **IBM SkillsBuild Learning Archive**.
 
-This repository documents my learning journey through technology-related educational programs and resources from **IBM SkillsBuild**, an initiative that provides learning opportunities to develop digital, technical, and professional skills.
+This repository documents my learning journey through technology-related educational resources and learning activities from **IBM SkillsBuild**.
 
-The program offers learning resources that help students and learners explore emerging technologies, strengthen their technical knowledge, and prepare for opportunities in the digital workforce.
+IBM SkillsBuild provides learning opportunities that help students and learners develop technical knowledge, explore emerging technologies, and strengthen skills relevant to the digital workforce.
 
-As an Information Technology student at Politeknik Negeri Lampung, I use this repository to organize my certificates, learning materials, presentation documents, and related resources collected throughout my learning journey.
+As an Information Technology student at **Politeknik Negeri Lampung**, I use this repository to organize my certificates, learning materials, presentation documents, and supporting resources collected throughout my learning journey.
 
-This archive also serves as part of my academic portfolio, demonstrating my commitment to continuous learning and technology skill development.
+This archive also serves as part of my academic and professional portfolio, reflecting my commitment to continuous learning and technology skill development.
 
-## 🎯 Purpose of IBM SkillsBuild
+## 🎯 Learning Objectives
 
-IBM SkillsBuild supports learners in developing skills relevant to the evolving technology landscape.
+Through these learning activities, I aim to:
 
-Through its learning resources, students can explore different technology areas, gain new knowledge, and strengthen their preparation for future academic and professional opportunities.
-
-The learning areas documented in this repository include:
-
-- **Artificial Intelligence:** Exploring AI concepts, AI agents, and related technologies.
-- **Generative AI:** Learning about AI-assisted software development and IBM Granite.
-- **Data Fundamentals:** Building foundational knowledge of data and data-related technologies.
-- **Technical Development:** Exploring tools, resources, and concepts relevant to technology.
-- **Continuous Learning:** Maintaining a record of learning achievements and technical development.
-
-*The topics covered depend on the specific learning activities and certificates documented in each archive.*
+- Develop foundational knowledge of emerging technologies.
+- Explore artificial intelligence and generative AI applications.
+- Understand data fundamentals and related technologies.
+- Improve my understanding of software development tools and workflows.
+- Document learning achievements and maintain an organized certificate archive.
+- Apply relevant knowledge to academic projects and practical digital solutions.
 
 ## 📂 Repository Structure
 
@@ -58,63 +53,69 @@ Archive-Program_IBM_SkillsBuild/
     └── README.md
 ```
 
-Each folder contains its own README and related files. The structure above illustrates the main archive categories; the contents of each folder may evolve as additional materials are documented.
+Each category contains its own README and related documents. The structure above represents the main archive categories; individual folders may contain additional files.
 
 ## 📚 Learning Archives
 
 ### 🤖 1. AI-2026
 
-A collection of learning documentation related to artificial intelligence and AI technologies.
+This archive contains learning documentation related to artificial intelligence and AI technologies.
 
-Topics represented in this archive include:
+Topics represented in this collection include:
 
 - Building an AI Agent
 - Artificial intelligence learning resources
 - IBM-related presentation materials
-- Supporting documents and learning archives
+- Supporting documents and archived learning resources
 
-**Explore:** [`AI-2026/`](./AI-2026/)
+**Explore the archive:** [AI-2026](./AI-2026/)
+
+**Credential verification:**  
+[Verify AI Credential on Credly](https://www.credly.com/badges/74ca3a82-7c90-4a43-9a7d-9e4b6d799bba/public_url)
 
 ### 💻 2. Code-Generation-2025
 
-An archive documenting my learning achievement in **Code Generation and Optimization Using IBM Granite**, issued by IBM SkillsBuild on August 21, 2025.
+This archive documents my learning achievement in **Code Generation and Optimization Using IBM Granite**, issued by IBM SkillsBuild on August 21, 2025.
 
-This learning activity relates to generative AI applications in software development, particularly code generation and optimization.
+The learning topic focuses on the use of generative AI for code generation and optimization in software development.
 
-**Explore:** [`Code-Generation-2025/`](./Code-Generation-2025/)
+This subject is relevant to my interests in software engineering, frontend development, and full-stack application development.
+
+**Explore the archive:** [Code-Generation-2025](./Code-Generation-2025/)
 
 **Credential verification:**  
-[View IBM Granite Credential on Credly](https://www.credly.com/badges/c67a2d36-566e-4e26-9806-ffffc4736234)
+[Verify IBM Granite Credential on Credly](https://www.credly.com/badges/c67a2d36-566e-4e26-9806-ffffc4736234)
 
 ### 📊 3. Data-2026
 
-A collection of learning documentation related to data fundamentals and supporting technology resources.
+This archive contains learning documentation related to data fundamentals and supporting technology resources.
 
-The archive includes the **Getting Started with Data** certificate, issued by IBM SkillsBuild on September 28, 2026, alongside presentation materials and related learning resources.
+It includes my **Getting Started with Data** certificate, issued by IBM SkillsBuild on September 28, 2026, together with presentation materials and related learning resources.
 
-**Explore:** [`Data-2026/`](./Data-2026/)
+**Explore the archive:** [Data-2026](./Data-2026/)
 
 **Credential verification:**  
-[View Getting Started with Data Credential on Credly](https://www.credly.com/badges/c551bb30-13ec-41a3-b289-7cdd3a29eb0a/public_url)
+[Verify Getting Started with Data on Credly](https://www.credly.com/badges/c551bb30-13ec-41a3-b289-7cdd3a29eb0a/public_url)
 
 ## 🏆 Learning Achievements
 
 This repository preserves evidence of my participation in technology learning activities, including:
 
-- Certificates issued through IBM SkillsBuild.
-- Learning resources and supporting documentation.
-- Presentation materials related to technology topics.
-- Archived files used for learning and reference.
+- IBM SkillsBuild certificates and learning achievements.
+- Artificial intelligence and generative AI learning resources.
+- Data-related learning materials.
+- Presentation documents and supporting resources.
+- Technical learning archives for future reference.
 
-Each certificate should be reviewed individually for its specific title, issuing organization, and verification details.
+Each certificate should be reviewed individually for its exact title, issuing organization, and verification details.
 
 ## 💡 Why This Learning Journey Matters
 
-Technology continues to evolve, making continuous learning an important part of professional development.
+Technology continues to evolve, making continuous learning an important part of academic and professional development.
 
-Through structured learning and independent exploration, I aim to strengthen my technical foundation, understand emerging technologies, and apply new knowledge to practical software development projects.
+Through structured learning and independent exploration, I aim to strengthen my technical foundation, understand emerging technologies, and discover ways to apply new knowledge to practical software development projects.
 
-This repository represents my ongoing effort to document that progress and maintain an organized record of my learning achievements.
+This repository helps me preserve that progress, organize my learning resources, and maintain a record of my development as an Information Technology student.
 
 ## 👨‍💻 About Me
 
@@ -122,32 +123,52 @@ This repository represents my ongoing effort to document that progress and maint
 Information Technology Student  
 Politeknik Negeri Lampung, Indonesia
 
-My interests include:
+### Areas of Interest
 
 - Frontend Development
 - Full-Stack Web Development
 - Artificial Intelligence and Generative AI
 - Modern Web Technologies
-- Software Engineering and Digital Innovation
+- Software Engineering
+- Digital Innovation
 
-I am committed to continuously improving my skills, exploring new technologies, and building useful digital solutions.
+I am committed to continuously improving my technical skills, exploring new technologies, and building useful digital solutions.
 
-## 🔗 Useful Links
+## 🔗 Credentials & Useful Links
 
-- [IBM SkillsBuild](https://skillsbuild.org/)
+### My Credly Profile
+
+View my credential collection and learning achievements on Credly:
+
+**[Visit Hendi Firmansah's Credly Profile](https://www.credly.com/users/hendi-firmansah/edit/badges/credly)**
+
+### Individual Credential Verification
+
+| Learning Achievement | Verification |
+|---|---|
+| Build an AI Agent | [View Credential](https://www.credly.com/badges/74ca3a82-7c90-4a43-9a7d-9e4b6d799bba/public_url) |
+| Code Generation and Optimization Using IBM Granite | [View Credential](https://www.credly.com/badges/c67a2d36-566e-4e26-9806-ffffc4736234) |
+| Getting Started with Data | [View Credential](https://www.credly.com/badges/c551bb30-13ec-41a3-b289-7cdd3a29eb0a/public_url) |
+
+### Official Resources
+
+- [IBM SkillsBuild Official Website](https://skillsbuild.org/)
 - [IBM SkillsBuild on Credly](https://www.credly.com/organizations/ibm-skillsbuild)
-- [IBM Granite Credential — Credly](https://www.credly.com/badges/c67a2d36-566e-4e26-9806-ffffc4736234)
-- [Getting Started with Data — Credly](https://www.credly.com/badges/c551bb30-13ec-41a3-b289-7cdd3a29eb0a/public_url)
 
 ## 📌 Repository Notes
 
 - This repository is maintained for personal learning documentation and portfolio purposes.
-- Certificate details should be verified through the relevant issuing organization or credential verification page.
+- Certificate details are based on the corresponding certificate files and credential pages.
 - Archived materials may have their own usage and distribution restrictions.
 - Sensitive personal information and confidential materials should not be published publicly.
+- Additional certificates and learning resources may be added as my learning journey continues.
 
 ---
 
 <p align="center">
   <strong>Learn Continuously · Explore Technology · Build Meaningful Solutions</strong>
+</p>
+
+<p align="center">
+  <i>Every learning experience is an opportunity to grow.</i>
 </p>
